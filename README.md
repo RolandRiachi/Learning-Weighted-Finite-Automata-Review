@@ -5,6 +5,7 @@ This desire to model quantitative systems is what motivates the study of learnin
 In this paper we report some techniques for learning WFAs reviewed by Balle and Mohri [7].The  goal  is  to  illustrate  some  relatively  new  approaches  to  the  problem  (namely,  learning  WFAsfrom queries [13, 14], learning stochastic WFAs from i.i.d.  samples [6, 24], and a learning WFAs -not necessarily probabilistic - from finite string-value pair samples [10]), to clarify some proofs andto provide hopefully insightful intuition into the motivations and definition behind each technique.
 
 References:
+
 [1]  Allauzen, C., Mohri, M., Riley, M.:  Statistical modeling for unit selection in speech synthesis.In:  Proceedings of ACL (2004)
 
 [2]  Allauzn,  C.,  Mohri,  M. Talwalkar,  A.:  Sequence kernels for predicting protein essentiality. In:Proceedings of ICML (2008)
